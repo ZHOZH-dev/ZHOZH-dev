@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-##LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ZHOZH)
 <!--
 **ZHOZH-dev/ZHOZH-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
